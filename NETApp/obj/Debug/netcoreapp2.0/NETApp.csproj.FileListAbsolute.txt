@@ -1,0 +1,11 @@
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\bin\Debug\netcoreapp2.0\NETApp.deps.json
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\bin\Debug\netcoreapp2.0\NETApp.runtimeconfig.json
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\bin\Debug\netcoreapp2.0\NETApp.runtimeconfig.dev.json
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\bin\Debug\netcoreapp2.0\NETApp.dll
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\bin\Debug\netcoreapp2.0\NETApp.pdb
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\obj\Debug\netcoreapp2.0\NETApp.csprojResolveAssemblyReference.cache
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\obj\Debug\netcoreapp2.0\NETApp.csproj.CoreCompileInputs.cache
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\obj\Debug\netcoreapp2.0\NETApp.AssemblyInfoInputs.cache
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\obj\Debug\netcoreapp2.0\NETApp.AssemblyInfo.cs
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\obj\Debug\netcoreapp2.0\NETApp.dll
+C:\Users\Vee\Documents\GitRepos\WebNET-Test\NETApp\NETApp\obj\Debug\netcoreapp2.0\NETApp.pdb
